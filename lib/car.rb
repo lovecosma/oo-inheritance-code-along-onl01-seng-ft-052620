@@ -1,5 +1,5 @@
 require_relative "./vehicle.rb"
-class Car 
+class Car
 attr_accessor wheel_size, number
 
 
@@ -10,5 +10,5 @@ attr_accessor wheel_size, number
 
 
 
-  
-end 
+
+end
