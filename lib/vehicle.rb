@@ -7,5 +7,6 @@ end
 
 def go
 
-end 
+end
+
 end
