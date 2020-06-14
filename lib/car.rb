@@ -6,7 +6,8 @@ def initialize(wheel_size, number)
   @wheel_number = wheel_number
 end
 
-
+def go
+end 
 
 
 
