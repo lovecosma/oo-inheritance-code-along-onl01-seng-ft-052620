@@ -7,6 +7,7 @@ def initialize(wheel_size, number)
 end
 
 def go
+  "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
 end 
 
 
